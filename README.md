@@ -99,8 +99,9 @@ Example: docker build -t nguyendat135/trackingstudents .
 # Quick Start Overview
 ### With Python Base Environments and Anaconda Environment
 1. Quick Run
-You can run this file ```app.py``` to start this project. Input if login  ```username:abc``` and ```password:abc``` to login
-The IP and Port you can access is ```http://localhost:8080/``` or with other laptop or smartphone in same network is ```http://192.168.1.44:8080```
+- You can run this file ```app.py``` to start this project. 
+- Input if login  ```username:abc``` and ```password:abc``` to login
+- The IP and Port you can access is ```http://localhost:8080/``` or with other laptop or smartphone in same network is ```http://192.168.1.44:8080```
 2. To trainning model you read ```Hướng dẫn sử dụng``` in tab ```Tổng quan```
 
 ### With Docker
