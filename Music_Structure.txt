@@ -1,0 +1,60 @@
+Folder PATH listing for volume Data2
+Volume serial number is 6AB0-11CA
+E:.
++---.idea
+¦   +---inspectionProfiles
++---Action
+¦   +---training
+¦   +---__pycache__
++---Auth
+¦   +---__pycache__
++---Dataset
+¦   +---FaceData
++---graph_models
+¦   +---mobilenet_thin
+¦   +---VGG_origin
++---Models
++---Pose
+¦   +---graph_models
+¦   ¦   +---mobilenet_thin
+¦   ¦   +---VGG_origin
+¦   +---__pycache__
++---profile_detection
+¦   +---haarcascades
+¦   +---__pycache__
++---src
+¦   +---Action
+¦   ¦   +---training
+¦   ¦   +---__pycache__
+¦   +---align
+¦   ¦   +---__pycache__
+¦   +---Auth
+¦   ¦   +---__pycache__
+¦   +---FCRN
+¦   +---generative
+¦   ¦   +---models
+¦   +---models
+¦   +---Pose
+¦   ¦   +---graph_models
+¦   ¦   ¦   +---mobilenet_thin
+¦   ¦   ¦   +---VGG_origin
+¦   ¦   +---__pycache__
+¦   +---QSTP
+¦   +---SoNguoi
+¦   +---Tracking
+¦   ¦   +---deep_sort
+¦   ¦   ¦   +---__pycache__
+¦   ¦   +---graph_model
+¦   ¦   +---__pycache__
+¦   +---ViPham
+¦   +---__pycache__
++---test
++---test_out
++---Tracking
+¦   +---deep_sort
+¦   ¦   +---__pycache__
+¦   +---graph_model
+¦   +---__pycache__
++---trained
++---ViPham
++---__pycache__

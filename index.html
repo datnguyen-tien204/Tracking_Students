@@ -1,0 +1,40 @@
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Capture Face</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $("form").submit(function(event) {
+                event.preventDefault();
+                var name = $("#name").val();
+                var id = $("#id").val();
+                $.ajax({
+                    type: "POST",
+                    url: "/capture",
+                    data: { name: name, id: id },
+                    success: function(response) {
+                        alert(response);
+                    },
+                    error: function(error) {
+                        alert("An error occurred.");
+                    }
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <h1>Capture Face</h1>
+    <form>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name">
+        <br>
+        <label for="id">ID:</label>
+        <input type="text" id="id" name="id">
+        <br>
+        <input type="submit" value="Capture">
+    </form>
+</body>
+</html>
