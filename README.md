@@ -11,10 +11,6 @@ This is a part of the 2023 startup project by a group consisting of four members
 6. [Send Us Feedback!](#send-us-feedback)
 7. [Thanks](#thanks)
 8. [License](#license)
-## Updates post-launch
-
-See [UPDATES.md](UPDATES.md). Also for a running list of frequently asked questions you can comment in issue.
-
 
 
 ## Introduction
@@ -182,7 +178,7 @@ Our project is open source for research purposes, and we want to improve it! So 
 2. Want to add/show some cool functionality/demo/project made on top of Students Tracking. We can add your project link to your [Issue](https://github.com/datnguyen-tien204/Tracking_Students/issues)
 
 # Thanks
-Thank you for the guidance of Prof.Minh Chuan Pham in the process of creating this project, as well as the evaluation board consisting of Prof.Quoc Viet Hoang and Prof.Dinh Chien Nguyen, who helped us improve the results and provided feedback for this project.
+Thank you for the guidance of Prof. Minh Chuan Pham in the process of creating this project, as well as the evaluation board consisting of Prof. Quoc Viet Hoang and Prof. Dinh Chien Nguyen, who helped us improve the results and provided feedback for this project.
 
 # License
 This project is freely available for free non-commercial use. If it useful you can give 1 star. Thanks for using.
