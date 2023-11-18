@@ -58,6 +58,7 @@ This deep learning-based system is being applied in developed countries worldwid
 # Installation
 
 ### With Python Base
+Requirements python >= 3.7
 1. Install dependences library
  ```bash
  pip install -r setup.txt
