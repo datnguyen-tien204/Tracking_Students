@@ -1,3 +1,4 @@
+[English](README.md) | [简体中文](README.zh-CN.md) | [Tiếng việt](README.vietnam-vn.md)
 # Tracking Students
 
 This is a part of the 2023 startup project by a group consisting of four members: Dat Nguyen Tien, Nguyen Truong Phuc, Nguyen Thanh Tu, and Luyen Thanh Binh, under the guidance of Prof. Pham Minh Chuan. The project deals with the issue of managing students during examinations. Specifically, this section of code manages students within the examination room. Its task is to supervise, monitor, and detect any cheating candidates through facial recognition attendance. The detailed code segment is provided below.
