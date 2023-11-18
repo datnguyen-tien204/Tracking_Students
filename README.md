@@ -14,7 +14,7 @@ This is a part of the 2023 startup project by a group consisting of four members
 8. [License](#license)
 
 
-## Introduction
+# Introduction
 ### Face Recognition
 <p align="center">
     <img src="github/images_introduction/FaceRecognition.jpg" width="360">
