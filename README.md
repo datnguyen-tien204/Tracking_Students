@@ -108,8 +108,8 @@ The IP and Port you can access is ```http://localhost:8080/``` or with other lap
 You access this project with this command
 ```bash
 docker run -p 8080:8080 [name_you_choose in Installation]
-```
 Example: docker run -p 8080:8080 nguyendat135/trackingstudents
+```
 2. After you can access it with ```http://localhost:8080/``` or with other laptop or smartphone in same network is ```http://192.168.1.44:8080```
 3. To trainning model you read ```Hướng dẫn sử dụng``` in tab ```Tổng quan```
 # Structures
