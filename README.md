@@ -64,7 +64,7 @@ Requirements python >= 3.7
  pip install -r setup.txt
 ```
 2. Install dependences files
-After you must run ``` file_requirements.py ``` or
+- After you must run ``` file_requirements.py ``` or
  ``` bash
 python file_requirements.py
 ```
