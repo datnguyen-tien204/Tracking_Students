@@ -1,7 +1,7 @@
 [English](README.md) | [简体中文](README.zh-CN.md) | [Tiếng việt](README.vietnam-vn.md)
 # Tracking Students
 
-This is a part of the 2023 startup project by a group consisting of four members: Dat Nguyen Tien, Nguyen Truong Phuc, Nguyen Thanh Tu, and Luyen Thanh Binh, under the guidance of Prof. Pham Minh Chuan. The project deals with the issue of managing students during examinations. Specifically, this section of code manages students within the examination room. Its task is to supervise, monitor, and detect any cheating candidates through facial recognition attendance. The detailed code segment is provided below.
+This is a part of the 2023 startup project by a group consisting of four members: Dat Nguyen Tien, Nguyen Truong Phuc, Nguyen Thanh Tu, and Luyen Thanh Binh, under the guidance of PhD. Pham Minh Chuan. The project deals with the issue of managing students during examinations. Specifically, this section of code manages students within the examination room. Its task is to supervise, monitor, and detect any cheating candidates through facial recognition attendance. The detailed code segment is provided below.
 
 ## Contents
 1. [Introduction](#introduction)
@@ -181,7 +181,7 @@ Our project is open source for research purposes, and we want to improve it! So 
 2. Want to add/show some cool functionality/demo/project made on top of Students Tracking. We can add your project link to your [Issue](https://github.com/datnguyen-tien204/Tracking_Students/issues)
 
 # Thanks
-Thank you for the guidance of Prof. Minh Chuan Pham in the process of creating this project, as well as the evaluation board consisting of Prof. Quoc Viet Hoang and Prof. Dinh Chien Nguyen, who helped us improve the results and provided feedback for this project.
+Thank you for the guidance of PhD. Minh Chuan Pham in the process of creating this project, as well as the evaluation board consisting of PhD. Quoc Viet Hoang and PhD. Dinh Chien Nguyen, who helped us improve the results and provided feedback for this project.
 
 # License
 This project is freely available for free non-commercial use. If it useful you can give 1 star. Thanks for using.
